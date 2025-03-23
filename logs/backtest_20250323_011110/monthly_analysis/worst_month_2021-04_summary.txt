@@ -1,0 +1,21 @@
+DETAILED ANALYSIS OF WORST MONTH: 2021-04
+================================================================================
+
+Overall Performance: -16.45%
+Trade Count: 9
+Win Rate: 44.44%
+Profit Factor: 0.29
+
+Position Breakdown:
+- Long Trades: 7 (42.86% win rate)
+- Short Trades: 2 (50.00% win rate)
+
+P&L Summary:
+- Average Winning Trade: 1.47%
+- Average Losing Trade: -6.15%
+- Average Trade Duration: 33.67 hours
+
+Exit Reasons:
+- Bearish: 5 trades
+- Trailing: 3 trades
+- Bullish: 1 trades

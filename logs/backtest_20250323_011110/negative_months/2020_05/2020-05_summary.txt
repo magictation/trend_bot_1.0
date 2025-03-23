@@ -1,0 +1,20 @@
+NEGATIVE MONTH SUMMARY: 2020-05
+================================================================================
+
+Monthly Return: -12.06%
+Starting Equity: $14979.44
+Ending Equity: $13173.54
+Total Trades: 10
+
+Win Rate: 70.00%
+Average Trade: -0.95%
+Best Trade: 4.85%
+Worst Trade: -11.46%
+Long Trades: 100.00%
+
+Exit Reasons:
+- Bearish: 7 trades
+- Trailing: 2 trades
+- RSI: 1 trades
+
+This data has been exported for further analysis

@@ -1,0 +1,21 @@
+NEGATIVE MONTH SUMMARY: 2022-08
+================================================================================
+
+Monthly Return: -0.22%
+Starting Equity: $48143.80
+Ending Equity: $48039.93
+Total Trades: 7
+
+Win Rate: 57.14%
+Average Trade: 0.37%
+Best Trade: 4.98%
+Worst Trade: -7.64%
+Long Trades: 57.14%
+
+Exit Reasons:
+- RSI: 3 trades
+- Bullish: 2 trades
+- Bearish: 1 trades
+- Trailing: 1 trades
+
+This data has been exported for further analysis

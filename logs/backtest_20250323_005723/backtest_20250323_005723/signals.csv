@@ -1,0 +1,1055 @@
+time,price,type,confidence,reason
+2020-01-10 14:00:00,7978.65,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.41x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-11 14:00:00,8053.75,EXIT_LONG,90,Bearish MACD divergence detected
+2020-01-11 23:00:00,8020.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.56) in uptrend, High volume confirmation (1.35x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-12 06:00:00,8083.84,EXIT_LONG,90,Bearish MACD divergence detected
+2020-01-12 17:00:00,8101.47,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.30x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-14 02:00:00,8431.14,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 85.35)
+2020-01-16 11:00:00,8724.91,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.11) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-01-17 18:00:00,8920.12,EXIT_LONG,90,Bearish MACD divergence detected
+2020-01-18 13:00:00,8919.97,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.37x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-18 23:00:00,8915.96,EXIT_LONG,90,Bearish MACD divergence detected
+2020-01-21 20:00:00,8718.71,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (3.75x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-26 19:00:00,8569.1,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.06)
+2020-01-30 00:00:00,9278.29,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.51) in uptrend, Recent swing low confirmed, High volume confirmation (1.64x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-01-30 07:00:00,9391.02,EXIT_LONG,90,Bearish MACD divergence detected
+2020-01-30 16:00:00,9370.93,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (4.03x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-02-03 01:00:00,9510.76,EXIT_LONG,90,Bearish MACD divergence detected
+2020-02-07 12:00:00,9755.88,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.57x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-07 22:00:00,9810.88,EXIT_LONG,90,Bearish MACD divergence detected
+2020-02-08 13:00:00,9793.51,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.40x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-09 05:00:00,10099.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.65)
+2020-02-10 06:00:00,9955.91,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.73) in uptrend, Recent swing low confirmed, High volume confirmation (3.04x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-11 18:00:00,10206.22,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.58)
+2020-02-13 09:00:00,10166.97,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.38) in uptrend, High volume confirmation (1.96x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-19 04:00:00,10111.65,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.18)
+2020-02-21 09:00:00,9659.91,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-23 07:00:00,9880.7,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.04)
+2020-02-24 02:00:00,9741.09,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (3.38x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-02-25 14:00:00,9404.87,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-02-29 21:00:00,8634.58,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-03-01 16:00:00,8522.3,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-03-03 16:00:00,8698.95,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.71x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-03-08 03:00:00,8747.58,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 17.40)
+2020-03-13 15:00:00,5212.37,ENTER_SHORT,65,"Overbought RSI (66.59) in downtrend, Recent swing high confirmed, High volume confirmation (1.42x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-03-13 18:00:00,4985.34,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-03-18 16:00:00,5199.59,ENTER_SHORT,90,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.92x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-03-19 16:00:00,6164.03,EXIT_SHORT,100,Trailing stop hit at $6135.52 (18.0% from low of $5199.59)
+2020-03-27 11:00:00,6620.58,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.15) in uptrend, High volume confirmation (1.30x average) (confirmed on 1h/4h)"
+2020-03-28 03:00:00,6116.92,EXIT_LONG,100,Trailing stop hit at $6117.38 (8.4% from high of $6676.74)
+2020-04-04 20:00:00,6825.67,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.73x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-05 09:00:00,6774.51,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-05 10:00:00,6750.93,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (32.85) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-04-07 07:00:00,7378.08,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-07 21:00:00,7172.3,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.79) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-08 17:00:00,7307.95,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-08 19:00:00,7306.09,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.14) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-04-09 07:00:00,7330.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-09 07:00:00,7330.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-09 08:00:00,7330.01,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-09 13:00:00,7327.68,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.60x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-09 14:00:00,7322.88,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-09 14:00:00,7322.88,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-12 17:00:00,7091.69,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.97)
+2020-04-15 06:00:00,6885.26,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.75) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-04-17 09:00:00,7103.04,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-19 23:00:00,7120.74,ENTER_SHORT,90,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.32x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-04-20 00:00:00,7161.16,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-04-25 00:00:00,7471.35,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.74) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-25 05:00:00,7563.45,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-25 16:00:00,7548.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.87x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-04-26 00:00:00,7563.08,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-27 13:00:00,7690.36,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.70x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-04-27 18:00:00,7709.12,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-28 09:00:00,7741.68,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.36x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-28 13:00:00,7727.1,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-28 14:00:00,7683.41,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.90) in uptrend, High volume confirmation (1.56x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-28 19:00:00,7717.04,EXIT_LONG,90,Bearish MACD divergence detected
+2020-04-28 22:00:00,7748.02,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-04-29 05:00:00,7863.0,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.50)
+2020-05-02 09:00:00,8811.9,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-05-02 10:00:00,8828.23,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-02 10:00:00,8828.23,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.32x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-05-02 11:00:00,8834.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-02 18:00:00,8866.72,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.28x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-05-03 10:00:00,9041.46,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-09 04:00:00,9830.23,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.01) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-05-10 00:00:00,8703.67,EXIT_LONG,100,Trailing stop hit at $9043.81 (8.0% from high of $9830.23)
+2020-05-11 19:00:00,8746.86,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.65x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-05-13 00:00:00,8934.03,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-15 04:00:00,9444.21,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.36) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-05-18 01:00:00,9902.1,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-18 08:00:00,9591.54,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.99) in uptrend, Recent swing low confirmed, High volume confirmation (2.48x average) (confirmed on 1h/4h)"
+2020-05-18 14:00:00,9708.56,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-18 17:00:00,9625.07,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.65) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-05-20 06:00:00,9724.39,EXIT_LONG,90,Bearish MACD divergence detected
+2020-05-20 06:00:00,9724.39,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.03x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-05-21 18:00:00,8831.26,EXIT_LONG,100,Trailing stop hit at $9006.62 (8.0% from high of $9789.80)
+2020-05-24 02:00:00,9198.96,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-05-27 18:00:00,9169.48,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.28)
+2020-06-04 11:00:00,9622.08,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.79x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-06-04 12:00:00,9642.02,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-04 12:00:00,9642.02,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.40x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-06-05 08:00:00,9833.43,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-06 19:00:00,9657.39,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-08 09:00:00,9745.85,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-08 14:00:00,9671.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.81) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-06-09 00:00:00,9703.05,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-09 00:00:00,9703.05,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (4.27x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-10 13:00:00,9750.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-10 18:00:00,9823.58,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (6.64x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-11 00:00:00,9890.34,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.37)
+2020-06-13 13:00:00,9429.04,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.34) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-06-16 12:00:00,9565.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-06-17 17:00:00,9402.27,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.46x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-18 09:00:00,9411.45,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-06-18 13:00:00,9403.01,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.67x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-06-19 15:00:00,9383.32,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-06-20 00:00:00,9302.24,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-20 11:00:00,9325.87,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-06-20 13:00:00,9288.55,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-24 21:00:00,9273.5,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-06-27 09:00:00,9143.57,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-27 15:00:00,9130.76,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-06-27 15:00:00,9130.76,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.46x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-06-27 20:00:00,8953.14,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 13.81)
+2020-06-29 13:00:00,9048.62,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.13x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-02 16:00:00,9044.36,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 18.11)
+2020-07-03 22:00:00,9083.99,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-03 23:00:00,9058.26,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-07-04 11:00:00,9057.69,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.67x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-04 12:00:00,9069.12,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-07-05 05:00:00,9076.71,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.74x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-07-05 20:00:00,9012.05,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-07-09 14:00:00,9295.9,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.40x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-10 02:00:00,9215.17,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-07-10 15:00:00,9245.92,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.43x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-12 13:00:00,9210.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-12 22:00:00,9298.46,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.78x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-13 09:00:00,9284.2,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-13 19:00:00,9235.07,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.41) in uptrend, Recent swing low confirmed, High volume confirmation (2.55x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-18 08:00:00,9153.42,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-18 09:00:00,9165.83,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.62x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-18 19:00:00,9163.84,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-18 19:00:00,9163.84,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.50x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-21 01:00:00,9178.56,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-24 08:00:00,9505.07,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.76) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-07-24 10:00:00,9540.85,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-24 11:00:00,9532.09,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.93) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-07-24 15:00:00,9551.68,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-25 01:00:00,9564.74,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-25 03:00:00,9581.58,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-25 12:00:00,9603.79,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-25 13:00:00,9582.22,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-25 13:00:00,9582.22,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.33x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-07-26 06:00:00,9698.77,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-30 17:00:00,11041.47,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-07-31 06:00:00,11140.64,EXIT_LONG,90,Bearish MACD divergence detected
+2020-07-31 06:00:00,11140.64,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-07-31 13:00:00,11151.95,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-03 13:00:00,11273.05,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.51x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-08-05 16:00:00,11630.36,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 90.39)
+2020-08-08 09:00:00,11742.15,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-08-10 08:00:00,11976.53,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.72)
+2020-08-10 22:00:00,11817.96,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.79) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-08-11 00:00:00,11872.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-11 06:00:00,11751.79,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.75) in uptrend, High volume confirmation (1.54x average) (confirmed on 1h/4h)"
+2020-08-14 10:00:00,11720.72,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-15 12:00:00,11749.33,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.01x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-08-15 16:00:00,11854.04,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-15 21:00:00,11894.61,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.09x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-08-17 00:00:00,11845.31,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-21 03:00:00,11866.58,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.53x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-08-24 03:00:00,11684.4,EXIT_LONG,90,Bearish MACD divergence detected
+2020-08-26 17:00:00,11449.98,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Overbought RSI (60.58) in downtrend, Recent swing high confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-02 12:00:00,11428.65,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 12.17)
+2020-09-06 22:00:00,10211.08,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.46x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-09-08 22:00:00,10106.5,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-09-08 22:00:00,10106.5,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.57x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-09-14 00:00:00,10273.28,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-09-18 04:00:00,10904.6,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-19 10:00:00,10993.11,EXIT_LONG,90,Bearish MACD divergence detected
+2020-09-19 10:00:00,10993.11,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-23 20:00:00,10230.39,EXIT_LONG,100,Trailing stop hit at $10248.80 (8.0% from high of $11140.00)
+2020-09-26 14:00:00,10706.65,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-26 15:00:00,10721.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-09-27 06:00:00,10660.82,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.44) in uptrend, High volume confirmation (2.20x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-28 11:00:00,10877.91,EXIT_LONG,90,Bearish MACD divergence detected
+2020-09-28 23:00:00,10696.12,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.39x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-29 16:00:00,10692.39,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-09-30 05:00:00,10698.66,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-09-30 18:00:00,10731.1,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-09-30 18:00:00,10731.1,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.49x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2020-10-02 21:00:00,10469.68,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-10-02 22:00:00,10551.02,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.26) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2020-10-03 06:00:00,10529.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-10-05 07:00:00,10686.31,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.79x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-10-05 11:00:00,10666.53,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-07 14:00:00,10632.03,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-09 10:00:00,10980.3,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-11 14:00:00,11378.72,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.60x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-12 01:00:00,11394.63,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-12 07:00:00,11379.34,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.45x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-13 10:00:00,11516.89,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-14 06:00:00,11421.33,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-10-18 07:00:00,11455.4,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.16)
+2020-10-19 11:00:00,11477.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.74x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-19 16:00:00,11760.65,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.63)
+2020-10-23 11:00:00,12968.96,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.92) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-10-24 10:00:00,12977.09,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-24 10:00:00,12977.09,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-25 00:00:00,13131.67,EXIT_LONG,90,Bearish MACD divergence detected
+2020-10-25 15:00:00,12940.74,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.32) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-10-27 18:00:00,13633.93,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.54)
+2020-10-29 14:00:00,13427.02,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.71x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-10-31 22:00:00,13866.99,EXIT_LONG,90,Bearish MACD divergence detected
+2020-11-01 04:00:00,13677.25,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.49) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-11-01 07:00:00,13792.51,EXIT_LONG,90,Bearish MACD divergence detected
+2020-11-01 11:00:00,13696.58,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.59) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-11-04 12:00:00,13824.68,EXIT_LONG,90,Bearish MACD divergence detected
+2020-11-07 15:00:00,15337.91,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.08) in uptrend, High volume confirmation (2.13x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-11-12 05:00:00,15747.94,EXIT_LONG,90,Bearish MACD divergence detected
+2020-11-19 08:00:00,17533.42,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.88) in uptrend, High volume confirmation (1.40x average) (confirmed on 1h/4h)"
+2020-11-20 23:00:00,18655.67,EXIT_LONG,90,Bearish MACD divergence detected
+2020-11-22 01:00:00,18470.4,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.94x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-11-25 08:00:00,19115.18,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-01 13:00:00,18759.73,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (32.93) in uptrend, Recent swing low confirmed, High volume confirmation (2.75x average) (confirmed on 1h/4h)"
+2020-12-03 07:00:00,19208.11,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-03 07:00:00,19208.11,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-12-03 16:00:00,19354.78,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-04 12:00:00,19026.49,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.36x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-12-08 08:00:00,19069.96,EXIT_SHORT,90,Bullish MACD divergence detected
+2020-12-10 19:00:00,18403.1,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-12-12 17:00:00,18483.17,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-18 15:00:00,22549.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.92) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2020-12-18 21:00:00,22880.07,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-19 12:00:00,23041.53,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.39x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-12-20 06:00:00,23506.67,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-27 23:00:00,26281.66,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.25) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2020-12-28 01:00:00,27062.0,EXIT_LONG,90,Bearish MACD divergence detected
+2020-12-29 19:00:00,26931.62,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2020-12-30 07:00:00,28386.62,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 87.65)
+2021-01-01 18:00:00,29072.7,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.72x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-01-01 23:00:00,29331.69,EXIT_LONG,90,Bearish MACD divergence detected
+2021-01-15 12:00:00,37770.63,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.34) in uptrend, High volume confirmation (1.70x average) (confirmed on 1h/4h)"
+2021-01-18 22:00:00,36470.06,EXIT_LONG,90,Bearish MACD divergence detected
+2021-01-24 02:00:00,32096.04,ENTER_SHORT,80,"Price pulled back to 50 SMA in downtrend, Overbought RSI (60.94) in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-01-26 13:00:00,31718.97,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-02-04 16:00:00,36929.36,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.47) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-02-04 20:00:00,37613.31,EXIT_LONG,90,Bearish MACD divergence detected
+2021-02-07 07:00:00,39030.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.20) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-02-08 13:00:00,42897.12,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.32)
+2021-02-12 14:00:00,46547.5,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (32.71) in uptrend, Recent swing low confirmed, High volume confirmation (2.11x average) (confirmed on 1h/4h)"
+2021-02-12 21:00:00,47860.54,EXIT_LONG,90,Bearish MACD divergence detected
+2021-02-15 01:00:00,48011.44,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.59) in uptrend, High volume confirmation (1.58x average) (confirmed on 1h/4h)"
+2021-02-16 12:00:00,49650.01,EXIT_LONG,90,Bearish MACD divergence detected
+2021-02-19 06:00:00,51734.88,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-02-19 19:00:00,54990.01,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 87.45)
+2021-02-22 00:00:00,56235.15,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.05) in uptrend, High volume confirmation (1.76x average) (confirmed on 1h/4h)"
+2021-02-23 02:00:00,51218.63,EXIT_LONG,100,Trailing stop hit at $51579.49 (9.3% from high of $56860.04)
+2021-02-24 17:00:00,50041.8,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-03-01 09:00:00,47350.12,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.63)
+2021-03-04 14:00:00,49422.53,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.56x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-03-05 08:00:00,46634.35,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-03-12 15:00:00,56956.95,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.36x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-03-12 16:00:00,57367.21,EXIT_LONG,90,Bearish MACD divergence detected
+2021-03-13 06:00:00,56931.58,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-03-13 18:00:00,60281.95,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 89.96)
+2021-03-14 16:00:00,59567.74,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.75) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-03-14 21:00:00,60081.54,EXIT_LONG,90,Bearish MACD divergence detected
+2021-03-22 10:00:00,57908.82,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.90x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-03-24 22:00:00,52534.03,EXIT_LONG,100,Trailing stop hit at $53144.23 (8.2% from high of $57908.82)
+2021-03-28 18:00:00,55192.08,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.41x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-03-29 06:00:00,55401.26,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-04-01 17:00:00,58501.63,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-04-04 11:00:00,57275.55,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-04-07 05:00:00,58285.99,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-04-09 01:00:00,57978.35,EXIT_LONG,90,Bearish MACD divergence detected
+2021-04-10 00:00:00,58109.08,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (25.98) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-04-10 02:00:00,58721.55,EXIT_LONG,90,Bearish MACD divergence detected
+2021-04-10 20:00:00,58615.28,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (20.60) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-04-11 00:00:00,60148.5,EXIT_LONG,90,Bearish MACD divergence detected
+2021-04-11 15:00:00,59645.46,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.25) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-04-11 19:00:00,59705.53,EXIT_LONG,90,Bearish MACD divergence detected
+2021-04-12 11:00:00,60241.5,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.34x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-04-12 20:00:00,60049.92,EXIT_LONG,90,Bearish MACD divergence detected
+2021-04-14 21:00:00,62773.65,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.68) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-04-18 03:00:00,55014.46,EXIT_LONG,100,Trailing stop hit at $55443.98 (12.5% from high of $63369.50)
+2021-04-20 10:00:00,55908.52,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-04-23 06:00:00,49051.48,EXIT_LONG,100,Trailing stop hit at $49065.55 (14.0% from high of $57020.76)
+2021-04-29 11:00:00,54300.16,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-04-30 15:00:00,57180.06,EXIT_SHORT,100,Trailing stop hit at $56962.39 (8.0% from low of $52742.95)
+2021-05-02 03:00:00,56450.19,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.07x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-05-02 15:00:00,56595.2,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-05-09 04:00:00,58157.87,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.77x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-05-10 03:00:00,59356.76,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.34)
+2021-05-31 00:00:00,35312.83,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-06-03 05:00:00,38795.88,EXIT_SHORT,100,Trailing stop hit at $38586.21 (12.0% from low of $34447.34)
+2021-07-02 17:00:00,33460.86,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.45) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2021-07-02 19:00:00,33327.71,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-07-02 19:00:00,33327.71,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.30) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2021-07-02 20:00:00,33133.21,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-07-05 00:00:00,34841.07,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.79) in uptrend, High volume confirmation (1.92x average) (confirmed on 1h/4h)"
+2021-07-10 08:00:00,33762.79,EXIT_LONG,90,Bearish MACD divergence detected
+2021-07-11 00:00:00,33719.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-07-12 04:00:00,34299.94,EXIT_LONG,90,Bearish MACD divergence detected
+2021-07-18 22:00:00,31557.91,ENTER_SHORT,90,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.56x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-07-20 01:00:00,30621.61,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-07-23 16:00:00,32176.84,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.76x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-07-25 23:00:00,35381.02,EXIT_SHORT,100,Trailing stop hit at $34700.39 (8.0% from low of $32129.99)
+2021-07-27 03:00:00,36823.8,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.08) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-07-27 21:00:00,38338.75,EXIT_LONG,90,Bearish MACD divergence detected
+2021-07-29 18:00:00,39527.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.63) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-07-29 23:00:00,40016.48,EXIT_LONG,90,Bearish MACD divergence detected
+2021-08-04 12:00:00,38860.28,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.58x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-08-04 22:00:00,39716.29,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 90.98)
+2021-08-14 10:00:00,46308.15,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (19.96) in uptrend, High volume confirmation (3.61x average) (confirmed on 1h/4h)"
+2021-08-14 16:00:00,46857.88,EXIT_LONG,90,Bearish MACD divergence detected
+2021-08-14 20:00:00,46620.55,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.63) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-08-16 12:00:00,47304.68,EXIT_LONG,90,Bearish MACD divergence detected
+2021-08-17 09:00:00,46843.53,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.43x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-08-19 19:00:00,46710.0,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.45)
+2021-08-22 22:00:00,49250.14,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.48x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-08-23 09:00:00,50303.86,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.39)
+2021-08-29 04:00:00,48141.83,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.70x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-09-02 14:00:00,49529.96,EXIT_LONG,90,Bearish MACD divergence detected
+2021-09-03 02:00:00,48970.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.49) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-09-03 04:00:00,49707.18,EXIT_LONG,90,Bearish MACD divergence detected
+2021-09-05 11:00:00,50198.78,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.46x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-09-05 22:00:00,51821.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 85.92)
+2021-09-09 12:00:00,46670.7,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.60x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-09-12 20:00:00,45091.83,EXIT_LONG,90,Bearish MACD divergence detected
+2021-09-12 20:00:00,45091.83,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.56x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-09-13 14:00:00,43933.32,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-09-16 17:00:00,47397.43,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-09-19 20:00:00,47594.67,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-09-29 15:00:00,41698.98,ENTER_SHORT,65,"Overbought RSI (61.35) in downtrend, Recent swing high confirmed, High volume confirmation (1.37x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-10-01 07:00:00,44788.42,EXIT_SHORT,100,Trailing stop hit at $44749.86 (8.8% from low of $41128.88)
+2021-10-04 13:00:00,48116.29,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.50x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-10-05 07:00:00,49476.51,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-08 03:00:00,53815.22,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.56) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-10-09 23:00:00,54949.72,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-10 00:00:00,54905.27,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.31x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-10-10 15:00:00,55373.01,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-10 18:00:00,55312.65,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.81) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2021-10-11 02:00:00,55799.99,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-16 17:00:00,60593.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.11) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-16 21:00:00,60670.18,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-16 21:00:00,60670.18,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.83) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-17 01:00:00,61077.62,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-17 09:00:00,61222.81,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-17 23:00:00,61528.33,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-17 23:00:00,61528.33,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.30x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-18 07:00:00,61885.42,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-18 19:00:00,61434.63,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.99) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-10-18 22:00:00,62075.0,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-21 05:00:00,64825.71,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (18.53) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-10-21 08:00:00,65882.09,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-21 11:00:00,64827.9,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.44) in uptrend, High volume confirmation (2.31x average) (confirmed on 1h/4h)"
+2021-10-25 09:00:00,62731.79,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.04)
+2021-10-26 07:00:00,62432.54,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.81) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-26 08:00:00,62820.3,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-26 12:00:00,62484.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.71) in uptrend, High volume confirmation (1.36x average) (confirmed on 1h/4h)"
+2021-10-28 20:00:00,61381.93,EXIT_LONG,90,Bearish MACD divergence detected
+2021-10-30 14:00:00,61178.18,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.43x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-10-31 15:00:00,60460.23,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.48)
+2021-11-01 05:00:00,60618.0,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-11-03 18:00:00,63149.04,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-11-09 18:00:00,66520.37,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.00) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-11-09 21:00:00,67721.0,EXIT_LONG,90,Bearish MACD divergence detected
+2021-11-13 14:00:00,64725.78,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.11x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-11-15 10:00:00,65921.36,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.46)
+2021-11-15 14:00:00,64851.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (24.84) in uptrend, High volume confirmation (1.45x average) (confirmed on 1h/4h)"
+2021-11-17 01:00:00,59317.37,EXIT_LONG,100,Trailing stop hit at $59662.92 (8.0% from high of $64851.00)
+2021-11-20 15:00:00,57588.37,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.75x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-11-22 07:00:00,57259.54,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 19.02)
+2021-11-24 08:00:00,56849.02,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.56x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-11-26 12:00:00,54299.98,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 11.54)
+2021-12-06 00:00:00,48743.61,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-12-06 01:00:00,48804.19,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-12-06 11:00:00,48577.78,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.53x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2021-12-09 07:00:00,50016.89,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-12-19 23:00:00,46681.23,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-12-20 14:00:00,46307.49,EXIT_SHORT,90,Bullish MACD divergence detected
+2021-12-25 14:00:00,50744.9,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.34) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2021-12-25 18:00:00,50986.34,EXIT_LONG,90,Bearish MACD divergence detected
+2021-12-25 18:00:00,50986.34,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.34x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2021-12-27 12:00:00,51118.83,EXIT_LONG,90,Bearish MACD divergence detected
+2022-01-03 14:00:00,46874.53,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.99x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-01-06 00:00:00,43680.94,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.48)
+2022-01-08 12:00:00,41876.31,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.69) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2022-01-08 13:00:00,41905.0,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-01-08 13:00:00,41905.0,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.80) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2022-01-13 14:00:00,44154.52,EXIT_SHORT,100,Trailing stop hit at $43934.21 (8.0% from low of $40679.82)
+2022-01-15 12:00:00,42715.56,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.83x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-01-16 13:00:00,43129.54,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-01-16 19:00:00,42824.79,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-01-17 12:00:00,42550.09,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-01-24 08:00:00,34959.79,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.62x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-01-24 20:00:00,37220.05,EXIT_SHORT,100,Trailing stop hit at $37005.35 (11.7% from low of $33114.90)
+2022-02-02 13:00:00,38361.61,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.51x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-02-03 03:00:00,36820.83,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 17.84)
+2022-02-06 15:00:00,41519.49,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.50x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-02-06 20:00:00,41569.99,EXIT_LONG,90,Bearish MACD divergence detected
+2022-02-09 12:00:00,44141.56,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.43x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-02-10 08:00:00,44215.0,EXIT_LONG,90,Bearish MACD divergence detected
+2022-02-10 13:00:00,43642.98,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.44) in uptrend, High volume confirmation (4.62x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-02-10 15:00:00,44947.1,EXIT_LONG,90,Bearish MACD divergence detected
+2022-02-12 16:00:00,42730.49,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.53x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-02-14 23:00:00,42535.94,EXIT_LONG,90,Bearish MACD divergence detected
+2022-02-16 13:00:00,43637.97,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.78) in uptrend, High volume confirmation (2.09x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-02-16 19:00:00,44220.0,EXIT_LONG,90,Bearish MACD divergence detected
+2022-02-16 21:00:00,44068.34,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-02-17 23:00:00,40515.7,EXIT_LONG,100,Trailing stop hit at $40542.87 (8.0% from high of $44068.34)
+2022-02-22 16:00:00,37709.99,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.90) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2022-02-24 04:00:00,35077.91,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 13.43)
+2022-03-03 14:00:00,43425.19,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.06x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-03-04 04:00:00,41379.99,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 16.60)
+2022-03-12 13:00:00,39074.74,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (64.00) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2022-03-13 20:00:00,38683.99,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-03-15 03:00:00,38768.41,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-03-18 19:00:00,42042.72,EXIT_SHORT,100,Trailing stop hit at $41775.02 (8.9% from low of $38362.15)
+2022-03-20 10:00:00,41760.68,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.10) in uptrend, High volume confirmation (1.42x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-03-22 14:00:00,42760.66,EXIT_LONG,90,Bearish MACD divergence detected
+2022-03-23 04:00:00,41944.35,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.44) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-03-24 14:00:00,43582.11,EXIT_LONG,90,Bearish MACD divergence detected
+2022-03-26 02:00:00,44289.01,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.22) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-03-26 04:00:00,44408.5,EXIT_LONG,90,Bearish MACD divergence detected
+2022-03-26 19:00:00,44367.49,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.35x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-03-27 14:00:00,44614.35,EXIT_LONG,90,Bearish MACD divergence detected
+2022-03-27 15:00:00,44857.52,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.99x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-03-28 01:00:00,46810.5,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 87.71)
+2022-03-30 17:00:00,47659.5,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.42x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-02 09:00:00,46682.5,EXIT_LONG,90,Bearish MACD divergence detected
+2022-04-02 15:00:00,46295.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.75) in uptrend, High volume confirmation (1.67x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-05 08:00:00,46665.89,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.65)
+2022-04-08 14:00:00,43750.14,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.85x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-11 19:00:00,39985.33,EXIT_LONG,100,Trailing stop hit at $40250.13 (8.0% from high of $43750.14)
+2022-04-13 12:00:00,39700.01,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-13 13:00:00,40521.75,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-04-14 13:00:00,40605.62,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.79x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-14 16:00:00,39951.1,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.75)
+2022-04-16 15:00:00,40062.68,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (3.62x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-17 02:00:00,40166.93,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-04-17 02:00:00,40166.93,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-18 05:00:00,38922.21,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 19.98)
+2022-04-24 16:00:00,39490.01,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (4.18x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-04-26 16:00:00,38667.14,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 12.92)
+2022-05-01 18:00:00,37934.91,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.39x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-05-01 19:00:00,37807.87,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-05-02 22:00:00,38591.04,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-05-03 11:00:00,38570.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-05-20 14:00:00,29489.33,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.45x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-05-21 01:00:00,29150.0,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-05-22 03:00:00,29363.5,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-05-24 08:00:00,29158.44,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-05-25 11:00:00,29409.01,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.10x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-05-26 23:00:00,29201.35,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-05-28 08:00:00,28838.49,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.77) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2022-05-30 20:00:00,31277.18,EXIT_SHORT,100,Trailing stop hit at $31109.21 (8.0% from low of $28804.82)
+2022-06-01 05:00:00,31622.28,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.11) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-06-01 09:00:00,31695.99,EXIT_LONG,90,Bearish MACD divergence detected
+2022-06-04 14:00:00,29777.32,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.48x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-06-06 04:00:00,31222.91,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.06)
+2022-06-08 19:00:00,30140.14,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.94) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-06-12 02:00:00,27427.48,EXIT_LONG,100,Trailing stop hit at $27949.06 (8.5% from high of $30549.46)
+2022-06-26 22:00:00,21143.78,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.15x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-06-28 13:00:00,21058.34,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-06-30 23:00:00,19942.21,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.24x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-07-06 13:00:00,20228.36,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-13 16:00:00,19631.78,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.47x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-07-14 14:00:00,19893.58,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-14 14:00:00,19893.58,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (28.16) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-07-15 02:00:00,20489.64,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-16 08:00:00,20606.76,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (29.15) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-07-17 03:00:00,21324.18,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-18 20:00:00,21493.18,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.57) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-07-18 23:00:00,22432.58,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-24 12:00:00,22495.59,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.32x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-07-24 22:00:00,22657.2,EXIT_LONG,90,Bearish MACD divergence detected
+2022-07-30 04:00:00,23739.21,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.93) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-07-30 08:00:00,23895.01,EXIT_LONG,90,Bearish MACD divergence detected
+2022-08-02 16:00:00,23378.71,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.85x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-08-05 12:00:00,23018.93,EXIT_LONG,90,Bearish MACD divergence detected
+2022-08-07 12:00:00,23115.02,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.62x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-08-08 10:00:00,24061.06,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.56)
+2022-08-12 00:00:00,23964.37,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.70) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-08-13 04:00:00,24731.22,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 86.14)
+2022-08-15 01:00:00,24645.14,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.45x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-08-19 01:00:00,22761.81,EXIT_LONG,100,Trailing stop hit at $22924.30 (8.0% from high of $24917.72)
+2022-08-21 06:00:00,21117.6,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-08-21 07:00:00,21251.38,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-08-22 14:00:00,21201.08,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.45x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-08-27 04:00:00,20145.54,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 8.87)
+2022-08-28 16:00:00,19991.34,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.91x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-08-28 21:00:00,19964.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-08-28 22:00:00,19903.85,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.91x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-03 15:00:00,19772.95,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-09-04 03:00:00,19772.79,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-04 06:00:00,19700.96,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-09-04 13:00:00,19712.64,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.43x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-04 14:00:00,19746.71,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-09-05 05:00:00,19726.04,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.79x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-05 18:00:00,19741.39,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-09-05 18:00:00,19741.39,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-07 00:00:00,18833.11,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 16.28)
+2022-09-11 20:00:00,21635.72,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.40x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-09-12 00:00:00,21637.99,EXIT_LONG,90,Bearish MACD divergence detected
+2022-09-21 19:00:00,19001.03,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.16x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-09-25 13:00:00,18934.88,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-09-29 12:00:00,19211.63,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.59x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-01 05:00:00,19317.92,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 13.95)
+2022-10-02 06:00:00,19278.81,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-02 07:00:00,19285.26,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-10-02 07:00:00,19285.26,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-02 21:00:00,19196.55,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-10-02 22:00:00,19170.64,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.20x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-10-02 23:00:00,19056.8,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-10-03 14:00:00,19416.25,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.80x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-04 00:00:00,19562.41,EXIT_LONG,90,Bearish MACD divergence detected
+2022-10-05 13:00:00,19920.35,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (24.41) in uptrend, High volume confirmation (2.11x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-05 16:00:00,20231.58,EXIT_LONG,90,Bearish MACD divergence detected
+2022-10-09 19:00:00,19468.96,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.98x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-10-10 01:00:00,19501.43,EXIT_LONG,90,Bearish MACD divergence detected
+2022-10-12 13:00:00,19115.62,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.97x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-10-12 18:00:00,19117.63,EXIT_LONG,90,Bearish MACD divergence detected
+2022-10-20 08:00:00,19114.67,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-20 17:00:00,19099.11,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-10-20 18:00:00,19062.89,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.71x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-25 00:00:00,19308.75,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-10-25 01:00:00,19297.63,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.76) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-25 20:00:00,20188.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 87.11)
+2022-10-27 13:00:00,20524.54,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.18) in uptrend, Recent swing low confirmed, High volume confirmation (2.00x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-10-29 10:00:00,20773.86,EXIT_LONG,90,Bearish MACD divergence detected
+2022-11-02 00:00:00,20518.48,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-04 13:00:00,20760.25,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.27)
+2022-11-06 05:00:00,21155.41,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.14) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-06 08:00:00,21253.7,EXIT_LONG,90,Bearish MACD divergence detected
+2022-11-13 05:00:00,16853.68,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-17 04:00:00,16504.0,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-11-17 15:00:00,16536.71,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.12x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-18 17:00:00,16597.08,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.61)
+2022-11-20 08:00:00,16615.67,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.35x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-20 20:00:00,16537.99,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-11-25 12:00:00,16507.19,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.31x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2022-11-27 09:00:00,16522.92,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-11-27 23:00:00,16428.78,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.65x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-11-28 12:00:00,16185.77,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-11-28 16:00:00,16311.56,ENTER_SHORT,80,"Price pulled back to 50 SMA in downtrend, Overbought RSI (66.70) in downtrend, Recent swing high confirmed, High volume confirmation (2.34x average) (confirmed on 1h/4h)"
+2022-11-29 00:00:00,16179.02,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-12-01 15:00:00,16977.67,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.49) in uptrend, Recent swing low confirmed, High volume confirmation (1.97x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-04 15:00:00,17029.88,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-04 15:00:00,17029.88,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.52x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-05 02:00:00,17245.12,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 86.47)
+2022-12-05 15:00:00,17083.92,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.19) in uptrend, High volume confirmation (1.86x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-08 20:00:00,17195.91,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.13)
+2022-12-09 13:00:00,17150.7,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.59) in uptrend, Recent swing low confirmed, High volume confirmation (2.17x average) (confirmed on 1h/4h)"
+2022-12-10 00:00:00,17152.88,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-10 01:00:00,17154.43,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.60) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2022-12-10 07:00:00,17154.06,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-10 10:00:00,17163.94,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-10 13:00:00,17158.24,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-10 14:00:00,17166.34,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-11 17:00:00,17177.19,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-11 20:00:00,17100.97,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.91) in uptrend, High volume confirmation (2.13x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-12 22:00:00,17157.98,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.39)
+2022-12-13 07:00:00,17165.17,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.86x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2022-12-13 23:00:00,17774.7,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-18 18:00:00,16746.22,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.85x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-20 13:00:00,16795.62,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.01)
+2022-12-21 14:00:00,16796.34,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.13x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-23 13:00:00,16841.76,EXIT_LONG,90,Bearish MACD divergence detected
+2022-12-25 15:00:00,16793.09,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.16x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2022-12-28 01:00:00,16695.55,EXIT_SHORT,90,Bullish MACD divergence detected
+2022-12-30 05:00:00,16554.39,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-06 13:00:00,16774.19,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-01-06 13:00:00,16774.19,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.67x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-12 00:00:00,18264.1,EXIT_SHORT,100,Trailing stop hit at $18088.73 (8.0% from low of $16748.82)
+2023-01-15 18:00:00,20817.94,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.51x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-01-16 00:00:00,20966.58,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-16 00:00:00,20966.58,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.47x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-16 15:00:00,20994.17,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-16 15:00:00,20994.17,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.38x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-01-17 09:00:00,21174.92,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-17 15:00:00,21176.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.08x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-01-17 21:00:00,21312.63,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-18 10:00:00,21183.83,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.65) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-18 13:00:00,21403.31,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-18 15:00:00,21042.73,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.70) in uptrend, High volume confirmation (3.02x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-20 12:00:00,21089.54,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-23 09:00:00,22784.18,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-01-23 14:00:00,22622.05,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-23 15:00:00,22853.14,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.09x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-24 18:00:00,22999.85,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-26 11:00:00,22992.94,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.22) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-01-26 12:00:00,23120.96,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-26 14:00:00,23039.35,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.97) in uptrend, Recent swing low confirmed, High volume confirmation (1.69x average) (confirmed on 1h/4h)"
+2023-01-26 20:00:00,23112.57,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-27 05:00:00,23034.92,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-01-27 20:00:00,23108.82,EXIT_LONG,90,Bearish MACD divergence detected
+2023-01-28 15:00:00,23012.54,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.83) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-01-29 17:00:00,23591.38,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.97)
+2023-01-31 22:00:00,23181.81,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-02-02 14:00:00,23609.11,EXIT_LONG,90,Bearish MACD divergence detected
+2023-02-06 15:00:00,23041.39,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.02x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-02-07 18:00:00,22932.28,EXIT_LONG,90,Bearish MACD divergence detected
+2023-02-07 19:00:00,23091.9,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.69x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-02-12 14:00:00,21923.78,EXIT_LONG,90,Bearish MACD divergence detected
+2023-02-12 21:00:00,21738.38,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.56x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-02-15 19:00:00,23318.9,EXIT_SHORT,100,Trailing stop hit at $23175.05 (8.0% from low of $21458.38)
+2023-02-19 08:00:00,24569.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.85) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-02-19 13:00:00,24669.99,EXIT_LONG,90,Bearish MACD divergence detected
+2023-02-19 16:00:00,24777.62,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.63x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-02-20 15:00:00,24942.87,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.12)
+2023-02-27 10:00:00,23378.79,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.65) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-02-27 13:00:00,23703.01,EXIT_LONG,90,Bearish MACD divergence detected
+2023-02-28 03:00:00,23467.52,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.76) in uptrend, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-02 00:00:00,23606.95,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-04 22:00:00,22305.98,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.41x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-06 11:00:00,22379.57,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-03-07 15:00:00,22320.9,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (5.71x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-08 13:00:00,21989.16,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-03-08 15:00:00,22140.8,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.75x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-08 21:00:00,22009.75,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-03-18 23:00:00,26907.49,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.33) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-19 03:00:00,27198.71,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-19 07:00:00,26974.81,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.02) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-03-20 07:00:00,28183.13,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-21 09:00:00,27929.23,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.41x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-21 10:00:00,27962.2,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-21 11:00:00,28040.13,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-22 03:00:00,28154.14,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-23 14:00:00,28045.3,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.41x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-03-24 06:00:00,28262.83,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-24 14:00:00,27989.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.26) in uptrend, High volume confirmation (2.40x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-03-27 09:00:00,27925.63,EXIT_LONG,90,Bearish MACD divergence detected
+2023-03-27 12:00:00,27749.99,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.29) in uptrend, High volume confirmation (1.62x average) (confirmed on 1h/4h)"
+2023-03-29 08:00:00,28506.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.48)
+2023-03-31 13:00:00,28370.78,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.15x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-04-01 20:00:00,28446.78,EXIT_LONG,90,Bearish MACD divergence detected
+2023-04-03 08:00:00,28335.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.05x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-04-04 11:00:00,28289.52,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.64)
+2023-04-06 01:00:00,28064.46,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.10) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-04-09 22:00:00,28371.39,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.19)
+2023-04-10 12:00:00,28277.86,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.64) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-04-10 15:00:00,28439.38,EXIT_LONG,90,Bearish MACD divergence detected
+2023-04-12 14:00:00,30024.69,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.64) in uptrend, High volume confirmation (1.78x average) (confirmed on 1h/4h)"
+2023-04-16 19:00:00,30309.06,EXIT_LONG,90,Bearish MACD divergence detected
+2023-04-16 19:00:00,30309.06,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.11x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-04-21 06:00:00,27916.88,EXIT_LONG,100,Trailing stop hit at $27985.59 (8.0% from high of $30419.12)
+2023-04-23 00:00:00,27541.8,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.56x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-04-26 00:00:00,28299.63,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 86.99)
+2023-04-29 15:00:00,29271.21,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-04-30 02:00:00,29176.96,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-05-03 17:00:00,28576.7,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.26x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-05-04 10:00:00,29243.62,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.23)
+2023-05-04 13:00:00,28761.51,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.92) in uptrend, Recent swing low confirmed, High volume confirmation (2.25x average) (confirmed on 1h/4h)"
+2023-05-05 00:00:00,28937.63,EXIT_LONG,90,Bearish MACD divergence detected
+2023-05-05 13:00:00,29175.57,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.75x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-05-05 14:00:00,29259.19,EXIT_LONG,90,Bearish MACD divergence detected
+2023-05-07 14:00:00,29045.71,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.70x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-05-12 02:00:00,26646.7,EXIT_LONG,100,Trailing stop hit at $26722.05 (8.0% from high of $29045.71)
+2023-05-12 21:00:00,26750.09,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (73.24) in downtrend, High volume confirmation (1.42x average) (confirmed on 1h/4h)"
+2023-05-16 19:00:00,26933.05,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-05-18 14:00:00,27244.99,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.26x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-05-19 10:00:00,26823.08,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-05-24 03:00:00,26786.0,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (4.80x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-05-24 06:00:00,26712.55,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 17.77)
+2023-05-26 05:00:00,26347.43,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (62.15) in downtrend, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-05-31 10:00:00,27056.53,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.55)
+2023-06-02 13:00:00,26908.84,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.70x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-03 06:00:00,27182.35,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-03 11:00:00,27129.79,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.19) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-06-03 13:00:00,27166.98,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-03 13:00:00,27166.98,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.96) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-06-03 14:00:00,27171.24,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-03 15:00:00,27305.26,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.50x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-04 20:00:00,27241.51,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-04 23:00:00,27115.21,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.17) in uptrend, High volume confirmation (2.09x average) (confirmed on 1h/4h)"
+2023-06-07 00:00:00,27179.8,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 82.28)
+2023-06-10 01:00:00,26396.93,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.33x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-10 06:00:00,25538.81,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 10.10)
+2023-06-12 02:00:00,25773.47,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.20x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-14 05:00:00,25845.14,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-06-14 19:00:00,25874.59,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.39x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-15 07:00:00,24983.8,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-06-23 14:00:00,30282.04,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.60x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-24 12:00:00,30694.57,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-24 15:00:00,30398.71,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.80) in uptrend, High volume confirmation (2.74x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-25 02:00:00,30621.3,EXIT_LONG,90,Bearish MACD divergence detected
+2023-06-26 13:00:00,30639.14,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.67x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-06-29 11:00:00,30670.94,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.67)
+2023-06-30 00:00:00,30441.34,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (29.97) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-06-30 02:00:00,30661.82,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-01 06:00:00,30450.26,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-07-01 19:00:00,30609.51,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.01)
+2023-07-02 03:00:00,30509.31,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.25) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-07-02 16:00:00,30561.58,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-02 16:00:00,30561.58,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.14x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-07-03 14:00:00,30736.27,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-04 09:00:00,31016.91,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.81) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-07-04 11:00:00,31067.99,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-04 15:00:00,30964.37,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (26.53) in uptrend, High volume confirmation (1.46x average) (confirmed on 1h/4h)"
+2023-07-04 16:00:00,30960.29,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-04 16:00:00,30960.29,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.53) in uptrend, High volume confirmation (1.82x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-07-09 13:00:00,30265.14,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-09 14:00:00,30341.02,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (3.42x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-07-10 20:00:00,30779.01,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.37)
+2023-07-10 22:00:00,30347.37,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.03x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-07-11 06:00:00,30634.59,EXIT_LONG,90,Bearish MACD divergence detected
+2023-07-14 17:00:00,30688.64,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (3.43x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-07-14 19:00:00,30115.17,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 18.85)
+2023-07-16 23:00:00,30231.99,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.92x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-07-18 03:00:00,30073.96,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-07-18 08:00:00,30021.99,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (60.21) in downtrend, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-07-19 15:00:00,29956.46,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-07-19 15:00:00,29956.46,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.59x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-07-19 22:00:00,29872.8,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-07-19 22:00:00,29872.8,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-07-21 07:00:00,29766.81,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-07-30 13:00:00,29287.91,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.92x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-01 03:00:00,28835.0,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 18.83)
+2023-08-01 17:00:00,28954.01,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.17) in downtrend, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-08-03 04:00:00,29136.43,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-04 18:00:00,29062.51,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (3.28x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-05 04:00:00,29056.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-06 12:00:00,29033.13,ENTER_SHORT,90,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.78x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-08-10 04:00:00,29542.05,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-10 13:00:00,29680.11,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.55x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-17 21:00:00,26253.92,EXIT_LONG,100,Trailing stop hit at $27305.70 (8.0% from high of $29680.11)
+2023-08-19 15:00:00,26216.01,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Overbought RSI (64.41) in downtrend, High volume confirmation (2.20x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-21 15:00:00,25939.59,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-21 15:00:00,25939.59,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (3.65x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-22 16:00:00,26020.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-23 11:00:00,25939.49,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (70.45) in downtrend, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-08-23 13:00:00,26018.22,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-26 04:00:00,26076.0,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (69.87) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2023-08-26 08:00:00,26041.9,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-08-26 16:00:00,26041.93,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.36x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-08-31 17:00:00,26329.07,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 18.95)
+2023-09-02 19:00:00,25833.39,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-03 08:00:00,25882.18,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-03 16:00:00,25846.9,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.59x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-03 18:00:00,25934.01,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-03 18:00:00,25934.01,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.69x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-04 03:00:00,25987.56,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-04 10:00:00,25907.79,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.33) in uptrend, High volume confirmation (1.31x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-12 11:00:00,26098.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 83.98)
+2023-09-13 07:00:00,25879.91,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.34x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-17 07:00:00,26495.93,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-09-17 08:00:00,26551.14,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-19 07:00:00,26847.21,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-20 06:00:00,27064.07,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.27) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-20 13:00:00,27160.09,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-20 13:00:00,27160.09,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.31x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-20 14:00:00,27124.99,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-20 23:00:00,27125.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-09-24 18:00:00,26591.85,EXIT_LONG,90,Bearish MACD divergence detected
+2023-09-27 00:00:00,26257.54,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-09-27 12:00:00,26722.48,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 85.34)
+2023-09-28 01:00:00,26451.46,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.21) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-09-29 07:00:00,27179.98,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-04 16:00:00,27524.06,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-05 09:00:00,27684.68,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-06 14:00:00,27670.0,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.78x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-07 08:00:00,28006.61,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-08 02:00:00,28012.64,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.40x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-14 13:00:00,26907.61,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-18 17:00:00,28330.04,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.32x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-19 01:00:00,28238.53,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-10-19 01:00:00,28238.53,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.75x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2023-10-23 03:00:00,30736.69,EXIT_SHORT,100,Trailing stop hit at $30466.80 (8.0% from low of $28210.00)
+2023-10-28 12:00:00,34022.58,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.57x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-30 08:00:00,34385.32,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-30 08:00:00,34385.32,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.68) in uptrend, Recent swing low confirmed, High volume confirmation (1.41x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-30 09:00:00,34532.09,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-30 09:00:00,34532.09,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.80x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-10-31 00:00:00,34511.89,EXIT_LONG,90,Bearish MACD divergence detected
+2023-10-31 10:00:00,34433.5,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-11-01 07:00:00,34451.28,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-01 10:00:00,34374.69,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.93) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-11-05 17:00:00,35066.92,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-06 09:00:00,35118.2,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-06 22:00:00,35115.73,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-08 10:00:00,35398.22,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.31) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-11-08 11:00:00,35330.79,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-08 15:00:00,35225.68,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.36x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-08 16:00:00,35406.42,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-08 16:00:00,35406.42,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.52x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-11-08 18:00:00,35589.57,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-11 06:00:00,37084.27,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (32.37) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-11-11 12:00:00,37099.8,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-11 12:00:00,37099.8,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.24) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-11-11 13:00:00,37142.01,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-11 13:00:00,37142.01,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.91) in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-11-11 14:00:00,37236.83,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-11 22:00:00,36891.91,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.88x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-12 13:00:00,37069.25,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-13 01:00:00,37192.96,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.44x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-15 22:00:00,37706.62,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 92.05)
+2023-11-16 13:00:00,36770.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (15.97) in uptrend, High volume confirmation (1.54x average) (confirmed on 1h/4h)"
+2023-11-19 06:00:00,36601.09,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-19 15:00:00,36568.27,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.33x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-11-19 16:00:00,36557.98,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-19 18:00:00,36835.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.09x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-20 02:00:00,37303.92,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 86.52)
+2023-11-22 18:00:00,37197.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.69x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-23 08:00:00,37500.0,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-25 05:00:00,37812.77,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.19) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-11-25 16:00:00,37739.01,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-26 05:00:00,37773.21,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-26 08:00:00,37755.48,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-28 07:00:00,37105.11,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-11-29 06:00:00,38174.41,EXIT_LONG,90,Bearish MACD divergence detected
+2023-11-29 21:00:00,37739.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.69) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-01 05:00:00,38120.84,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.11)
+2023-12-02 17:00:00,38795.09,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-02 18:00:00,38872.72,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-07 08:00:00,43585.6,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.38) in uptrend, High volume confirmation (2.40x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-09 05:00:00,44274.99,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-09 10:00:00,43835.05,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (27.88) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-09 14:00:00,43935.58,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-15 07:00:00,42699.99,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.59) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2023-12-15 09:00:00,42834.91,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-17 18:00:00,42173.21,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.65x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-12-19 08:00:00,43088.06,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-23 02:00:00,43490.85,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-23 11:00:00,43547.78,EXIT_SHORT,90,Bullish MACD divergence detected
+2023-12-24 05:00:00,43490.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.54) in uptrend, High volume confirmation (3.07x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2023-12-31 01:00:00,42170.63,EXIT_LONG,90,Bearish MACD divergence detected
+2023-12-31 06:00:00,42252.68,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2023-12-31 16:00:00,42592.47,EXIT_LONG,90,Bearish MACD divergence detected
+2024-01-05 01:00:00,43376.0,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.23x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-01-11 14:00:00,48571.22,EXIT_SHORT,100,Trailing stop hit at $47618.25 (10.2% from low of $43225.99)
+2024-01-14 16:00:00,42929.95,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.33x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-01-16 03:00:00,42924.56,EXIT_LONG,90,Bearish MACD divergence detected
+2024-01-18 10:00:00,42447.66,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-01-19 14:00:00,40969.31,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-01-21 16:00:00,41607.18,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.55x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-01-22 15:00:00,40771.99,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-01-25 02:00:00,39939.84,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-01-29 16:00:00,43200.0,EXIT_SHORT,100,Trailing stop hit at $42887.15 (8.0% from low of $39710.32)
+2024-02-01 14:00:00,42651.1,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.39x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-02-02 15:00:00,43242.09,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-03 15:00:00,43119.06,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.53x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-02-07 09:00:00,43146.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-07 13:00:00,43141.98,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-02-07 14:00:00,43028.6,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-07 15:00:00,43071.08,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.54x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-02-08 01:00:00,44654.73,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 90.77)
+2024-02-13 18:00:00,49107.84,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.26) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-02-14 15:00:00,51590.0,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.28)
+2024-02-16 11:00:00,52213.86,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.39x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-02-16 14:00:00,51920.31,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-18 20:00:00,51776.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-02-22 16:00:00,51479.09,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-22 18:00:00,51718.81,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-02-25 14:00:00,51741.22,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-25 19:00:00,51672.96,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.50x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-02-25 20:00:00,51735.8,EXIT_LONG,90,Bearish MACD divergence detected
+2024-02-26 14:00:00,51687.02,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.68x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-02-27 00:00:00,54554.93,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 92.30)
+2024-03-01 15:00:00,61263.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.36x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-03-02 12:00:00,62078.66,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-03 12:00:00,62184.02,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, High volume confirmation (3.20x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-03-04 10:00:00,65068.18,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.68)
+2024-03-05 16:00:00,65495.98,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.35) in uptrend, High volume confirmation (2.77x average) (confirmed on 1h/4h)"
+2024-03-07 07:00:00,66387.78,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-07 07:00:00,66387.78,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.21) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-03-07 08:00:00,66665.41,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-09 10:00:00,68177.99,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (28.77) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-03-09 13:00:00,68345.57,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-09 13:00:00,68345.57,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-03-09 21:00:00,68376.13,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-12 16:00:00,70507.37,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.04) in uptrend, High volume confirmation (2.48x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-03-13 18:00:00,73133.59,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-14 13:00:00,71884.81,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (32.93) in uptrend, High volume confirmation (3.06x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-03-16 23:00:00,65300.63,EXIT_LONG,100,Trailing stop hit at $66157.21 (8.0% from high of $71910.01)
+2024-03-18 01:00:00,67630.46,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.30x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-03-18 12:00:00,68550.54,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-20 17:00:00,64107.58,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.44x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-03-21 13:00:00,66736.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-03-23 23:00:00,63990.01,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.38x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-03-25 14:00:00,69377.19,EXIT_SHORT,100,Trailing stop hit at $69080.02 (8.0% from low of $63962.98)
+2024-03-27 13:00:00,69892.0,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (5.61x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-02 14:00:00,65702.31,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.18)
+2024-04-03 14:00:00,66627.93,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.68x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-04 18:00:00,68593.5,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 91.93)
+2024-04-05 07:00:00,66930.74,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (29.09) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-04-05 14:00:00,68139.39,EXIT_LONG,90,Bearish MACD divergence detected
+2024-04-06 14:00:00,67993.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-06 15:00:00,68104.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-04-06 16:00:00,68143.48,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-07 08:00:00,69479.99,EXIT_LONG,90,Bearish MACD divergence detected
+2024-04-10 16:00:00,69500.0,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Overbought RSI (60.01) in downtrend, High volume confirmation (2.04x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-12 19:00:00,66843.98,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 12.44)
+2024-04-14 22:00:00,65330.3,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.71x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-19 06:00:00,64624.37,EXIT_LONG,90,Bearish MACD divergence detected
+2024-04-26 04:00:00,64210.85,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (67.36) in downtrend, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-04-26 13:00:00,64500.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-04-26 14:00:00,63854.16,ENTER_SHORT,100,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.72x average), MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-04-27 10:00:00,62796.0,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-05-07 03:00:00,63239.49,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-05-08 06:00:00,62505.98,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-05-08 14:00:00,62560.01,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.66x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-05-08 20:00:00,61570.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-05-11 15:00:00,61174.18,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.51x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-13 00:00:00,61512.89,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-13 01:00:00,61415.87,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.39x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-05-13 06:00:00,61504.1,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-13 06:00:00,61504.1,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.42x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-15 15:00:00,64725.11,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 91.53)
+2024-05-19 02:00:00,67211.61,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.59x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-19 08:00:00,67160.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-19 11:00:00,67330.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.58x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-20 21:00:00,69717.79,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.76)
+2024-05-21 19:00:00,69285.99,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (20.36) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-05-21 22:00:00,70222.22,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-22 04:00:00,69599.98,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.58) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-05-22 08:00:00,70010.27,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-22 12:00:00,69643.88,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.14) in uptrend, High volume confirmation (1.35x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-25 03:00:00,68757.85,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-26 05:00:00,69139.6,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-26 07:00:00,69340.15,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-26 08:00:00,69160.33,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.89x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-26 14:00:00,69287.12,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-26 14:00:00,69287.12,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.63x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-26 15:00:00,68847.99,EXIT_LONG,90,Bearish MACD divergence detected
+2024-05-26 15:00:00,68847.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.44x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-05-31 02:00:00,68539.99,EXIT_LONG,90,Bearish MACD divergence detected
+2024-06-01 17:00:00,67791.02,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.75x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-04 02:00:00,69139.57,EXIT_LONG,90,Bearish MACD divergence detected
+2024-06-06 20:00:00,70720.01,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.67x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-07 12:00:00,71234.09,EXIT_LONG,90,Bearish MACD divergence detected
+2024-06-07 12:00:00,71234.09,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (5.28x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-12 15:00:00,69734.0,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.25)
+2024-06-14 14:00:00,66982.98,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.44x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-16 14:00:00,66519.02,EXIT_LONG,90,Bearish MACD divergence detected
+2024-06-18 00:00:00,65749.99,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (1.47x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-19 08:00:00,65183.89,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-06-20 14:00:00,64952.02,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.25x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-06-22 09:00:00,64325.99,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-06-22 14:00:00,64287.96,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (63.74) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2024-06-22 19:00:00,64295.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-06-26 15:00:00,61467.86,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.44x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-07-03 19:00:00,59671.1,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-07-06 03:00:00,56410.0,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (61.94) in downtrend, Recent swing high confirmed (confirmed on 1h/4h)"
+2024-07-06 04:00:00,56059.49,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-07-07 13:00:00,56872.0,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.86x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-07-10 19:00:00,57392.03,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 17.65)
+2024-07-11 03:00:00,57568.0,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (1.70x average), Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-07-12 10:00:00,57172.84,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-07-17 15:00:00,64724.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.24) in uptrend, High volume confirmation (1.43x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-07-18 13:00:00,64594.2,EXIT_LONG,90,Bearish MACD divergence detected
+2024-07-21 07:00:00,66701.99,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (28.24) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-07-21 14:00:00,67290.76,EXIT_LONG,90,Bearish MACD divergence detected
+2024-07-21 18:00:00,66864.42,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (6.03x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-07-22 12:00:00,67697.11,EXIT_LONG,90,Bearish MACD divergence detected
+2024-07-22 13:00:00,67098.0,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.51) in uptrend, High volume confirmation (1.70x average) (confirmed on 1h/4h)"
+2024-07-26 04:00:00,67075.83,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.40)
+2024-07-27 20:00:00,67791.22,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (7.32x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-07-27 21:00:00,68860.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-07-28 06:00:00,67486.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.54) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-07-29 13:00:00,69273.6,EXIT_LONG,90,Bearish MACD divergence detected
+2024-07-31 13:00:00,66508.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.98x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-03 00:00:00,61132.01,EXIT_LONG,100,Trailing stop hit at $61351.12 (8.0% from high of $66686.00)
+2024-08-12 11:00:00,59851.7,ENTER_SHORT,65,"Price pulled back to 50 SMA in downtrend, Overbought RSI (62.14) in downtrend, High volume confirmation (2.41x average) (confirmed on 1h/4h)"
+2024-08-12 13:00:00,58157.55,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-08-14 13:00:00,59611.92,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (3.45x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-14 19:00:00,58891.13,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 18.18)
+2024-08-20 14:00:00,59461.8,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.52) in uptrend, High volume confirmation (3.39x average) (confirmed on 1h/4h)"
+2024-08-22 07:00:00,60984.31,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-22 18:00:00,60331.16,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (38.97) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-22 21:00:00,60545.47,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-23 00:00:00,60726.16,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.01) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-08-23 14:00:00,60994.91,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-23 14:00:00,60994.91,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (7.73x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-08-24 00:00:00,63961.78,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.82)
+2024-08-25 09:00:00,63861.31,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.74) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-25 13:00:00,64082.02,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-25 13:00:00,64082.02,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-25 14:00:00,64148.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-25 21:00:00,64383.73,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (1.93x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-08-25 23:00:00,64220.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-08-30 09:00:00,59580.64,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-09-03 12:00:00,59135.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-03 13:00:00,58398.99,ENTER_SHORT,85,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.96x average), Price rejection from 20 SMA resistance, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-09-04 13:00:00,56490.0,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-09-08 15:00:00,53687.0,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, High volume confirmation (2.57x average), MACD bearish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-09-11 12:00:00,56748.01,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-09-20 18:00:00,62865.45,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (31.65) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-09-20 21:00:00,63116.03,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-22 17:00:00,63062.66,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.53x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-09-23 14:00:00,63394.5,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-23 16:00:00,63227.55,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.76) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-09-24 17:00:00,63775.86,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-24 17:00:00,63775.86,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.65x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-09-25 14:00:00,63936.5,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-28 15:00:00,65619.13,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.48) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-09-28 18:00:00,65715.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-09-29 01:00:00,65872.9,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-10-02 19:00:00,60190.01,EXIT_LONG,100,Trailing stop hit at $60682.11 (8.0% from high of $65958.82)
+2024-10-04 01:00:00,61218.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-05 06:00:00,62224.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-10-09 15:00:00,62316.0,ENTER_SHORT,70,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, High volume confirmation (2.25x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-10 08:00:00,60815.7,EXIT_SHORT,90,Bullish MACD divergence detected
+2024-10-17 15:00:00,67590.66,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.67x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-10-18 13:00:00,68196.0,EXIT_LONG,90,Bearish MACD divergence detected
+2024-10-18 13:00:00,68196.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-19 03:00:00,68450.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-10-19 05:00:00,68390.01,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.36) in uptrend, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-10-20 00:00:00,68231.24,EXIT_LONG,90,Bearish MACD divergence detected
+2024-10-20 06:00:00,68400.01,ENTER_LONG,100,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.35x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-25 10:00:00,67855.23,EXIT_LONG,90,Bearish MACD divergence detected
+2024-10-25 17:00:00,66836.01,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (29.73) in uptrend, High volume confirmation (2.50x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-28 20:00:00,69644.56,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 80.89)
+2024-10-30 12:00:00,71862.17,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (33.55) in uptrend, High volume confirmation (1.45x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-10-30 20:00:00,72857.14,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-04 12:00:00,68978.2,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-11-04 13:00:00,68662.39,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-05 19:00:00,68995.99,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.84x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-11-06 12:00:00,74171.47,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-09 23:00:00,76677.46,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.46x average), MACD bullish crossover signaling trend resumption, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-10 05:00:00,79064.16,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.37)
+2024-11-13 08:00:00,87228.68,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.35) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-11-13 11:00:00,87669.39,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-15 16:00:00,89375.99,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.30x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-11-16 05:00:00,91350.34,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-16 15:00:00,90521.2,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (35.97) in uptrend, Recent swing low confirmed, High volume confirmation (1.78x average) (confirmed on 1h/4h)"
+2024-11-16 18:00:00,91303.04,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-17 01:00:00,90272.74,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.64) in uptrend, High volume confirmation (1.34x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-18 15:00:00,92309.51,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-19 14:00:00,91824.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.33x average), Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-11-20 05:00:00,92505.47,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-22 14:00:00,97296.0,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.69x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-22 16:00:00,98865.3,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-23 05:00:00,98755.15,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-23 13:00:00,98532.08,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-23 13:00:00,98532.08,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.71) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-27 18:00:00,96119.51,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 84.81)
+2024-11-28 10:00:00,94958.74,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.10) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-11-28 11:00:00,95452.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-29 08:00:00,95979.99,ENTER_LONG,70,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-11-30 06:00:00,96639.66,EXIT_LONG,90,Bearish MACD divergence detected
+2024-11-30 06:00:00,96639.66,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (34.62) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-12-01 18:00:00,97118.69,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-02 15:00:00,97048.0,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, High volume confirmation (2.43x average), MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-12-04 19:00:00,97209.64,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-06 13:00:00,98591.99,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-12-07 09:00:00,99676.48,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-07 09:00:00,99676.48,ENTER_LONG,65,"Price pulled back to 50 SMA in uptrend, Oversold RSI (30.50) in uptrend, Recent swing low confirmed (confirmed on 1h/4h)"
+2024-12-07 15:00:00,99756.01,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-07 18:00:00,100123.32,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, MACD bullish crossover signaling trend resumption, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-12-07 21:00:00,99869.8,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-08 12:00:00,99922.48,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (1.49x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-12-11 16:00:00,100575.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 87.30)
+2024-12-12 19:00:00,99481.32,ENTER_LONG,90,"Price pulled back to 50 SMA in uptrend, Oversold RSI (39.24) in uptrend, Recent swing low confirmed, High volume confirmation (2.23x average), Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-12-13 15:00:00,99873.16,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-13 16:00:00,100988.01,ENTER_LONG,85,"Price pulled back to 50 SMA in uptrend, Recent swing low confirmed, High volume confirmation (2.38x average), Price rejection from 20 SMA support, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-12-14 15:00:00,101625.12,EXIT_LONG,90,Bearish MACD divergence detected
+2024-12-14 15:00:00,101625.12,ENTER_LONG,80,"Price pulled back to 50 SMA in uptrend, Oversold RSI (37.35) in uptrend, Recent swing low confirmed, Price rejection from 20 SMA support (confirmed on 1h/4h)"
+2024-12-16 01:00:00,105531.99,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.42)
+2024-12-21 23:00:00,97291.99,ENTER_LONG,75,"Price pulled back to 50 SMA in uptrend, Oversold RSI (36.25) in uptrend, Recent swing low confirmed, Volatility expansion after contraction (confirmed on 1h/4h)"
+2024-12-24 17:00:00,98797.47,EXIT_LONG,90,RSI reversal from overbought levels (RSI: 81.51)
+2024-12-29 12:00:00,94907.89,ENTER_SHORT,75,"Price pulled back to 50 SMA in downtrend, Recent swing high confirmed, MACD bearish crossover signaling trend resumption, Price rejection from 20 SMA resistance (confirmed on 1h/4h)"
+2024-12-29 17:00:00,93945.01,EXIT_SHORT,90,RSI reversal from oversold levels (RSI: 15.88)

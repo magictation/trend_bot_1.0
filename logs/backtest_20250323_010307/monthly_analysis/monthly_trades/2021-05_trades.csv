@@ -1,0 +1,3 @@
+entry_time,exit_time,entry_price,exit_price,position,profit_loss,profit_pct,duration_hours,exit_reason,entry_month,exit_month,month_str
+2021-05-02 03:00:00,2021-05-02 15:00:00,56450.19,56595.2,SHORT,-47.28507190588116,-0.25688133202030805,12.0,Bullish MACD divergence detected,2021-05,2021-05,2021-05
+2021-05-09 04:00:00,2021-05-10 03:00:00,58157.87,59356.76,LONG,377.72449972844834,2.0614406958164038,23.0,RSI reversal from overbought levels (RSI: 81.34),2021-05,2021-05,2021-05

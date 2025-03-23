@@ -1,0 +1,20 @@
+NEGATIVE MONTH SUMMARY: 2024-06
+================================================================================
+
+Monthly Return: -1.95%
+Starting Equity: $148958.25
+Ending Equity: $146056.21
+Total Trades: 7
+
+Win Rate: 57.14%
+Average Trade: 0.25%
+Best Trade: 1.99%
+Worst Trade: -2.11%
+Long Trades: 57.14%
+
+Exit Reasons:
+- Bearish: 3 trades
+- Bullish: 3 trades
+- RSI: 1 trades
+
+This data has been exported for further analysis

@@ -1,0 +1,21 @@
+NEGATIVE MONTH SUMMARY: 2023-04
+================================================================================
+
+Monthly Return: -4.13%
+Starting Equity: $75069.51
+Ending Equity: $71967.45
+Total Trades: 8
+
+Win Rate: 75.00%
+Average Trade: -0.26%
+Best Trade: 2.75%
+Worst Trade: -7.89%
+Long Trades: 87.50%
+
+Exit Reasons:
+- Bearish: 3 trades
+- RSI: 3 trades
+- Trailing: 1 trades
+- Bullish: 1 trades
+
+This data has been exported for further analysis

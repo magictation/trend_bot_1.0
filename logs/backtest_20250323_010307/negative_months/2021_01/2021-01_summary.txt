@@ -1,0 +1,19 @@
+NEGATIVE MONTH SUMMARY: 2021-01
+================================================================================
+
+Monthly Return: -2.03%
+Starting Equity: $20630.83
+Ending Equity: $20212.00
+Total Trades: 3
+
+Win Rate: 66.67%
+Average Trade: -0.46%
+Best Trade: 1.17%
+Worst Trade: -3.44%
+Long Trades: 66.67%
+
+Exit Reasons:
+- Bearish: 2 trades
+- Bullish: 1 trades
+
+This data has been exported for further analysis

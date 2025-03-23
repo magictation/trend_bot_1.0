@@ -1,0 +1,4 @@
+entry_time,exit_time,entry_price,exit_price,position,profit_loss,profit_pct,duration_hours,exit_reason,entry_month,exit_month
+2021-01-01 18:00:00,2021-01-01 23:00:00,29072.7,29331.69,LONG,183.60297822156875,0.8908357324912993,5.0,Bearish MACD divergence detected,2021-01,2021-01
+2021-01-15 12:00:00,2021-01-18 22:00:00,37770.63,36470.06,LONG,-714.5755143270419,-3.443336793693936,82.0,Bearish MACD divergence detected,2021-01,2021-01
+2021-01-24 02:00:00,2021-01-26 13:00:00,32096.04,31718.97,SHORT,234.9291340678399,1.174817827993733,59.0,Bullish MACD divergence detected,2021-01,2021-01
